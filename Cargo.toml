@@ -1,0 +1,7 @@
+[package]
+name = "discord-edited-changer"
+version = "0.1.0"
+authors = ["Vysion"]
+edition = "2018"
+
+[dependencies]
